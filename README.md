@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arvin Tashakori
-- 🔋 I'm doing my Doctor of Philosophy Student at Electrical and Computer Engineering at University of British Columbia
+- 🔋 I'm a Doctor of Philosophy (PhD) Candidate at Electrical and Computer Engineering at University of British Columbia
 - 📈 I'm also Lead Software Engineer at Texavie Technologies Inc
 - 👨🏻‍💻 I'm Experienced Software (Full Stack Developer)/Hardware Engineer with a demonstrated history of working in the Artificial intelligence, Software/Hardware developing, Wearable and edge computing, consumer electronics, mostly in digital health domain
 - 🧑🏻‍💻 I'm Highly skilled in Computer vision, Deep Learning, Signal Processing, Field-Programmable Gate Arrays (FPGA) , Firmware development, Game Theory and Optimization
