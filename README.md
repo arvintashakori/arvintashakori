@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arvin Tashakori
+- 👋 Hi, Welcome to my Github profile! My name is Arvin Tashakori
 - 🔋 I'm a Doctor of Philosophy (PhD) Candidate at Electrical and Computer Engineering at University of British Columbia, Vancouver BC, Canada.
 - 📈 I'm also Lead Software and Machine Learning Engineer at Texavie Technologies Inc, Vancouver BC, Canada.
 - 🔋 I received my M.Sc., B.Sc.s (double major) in Electrical Engineering and Computer Science from Sharif University of Technology, Tehran, Iran.
