@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Arvin Tashakori
 - 🔋 I'm a Doctor of Philosophy (PhD) Candidate at Electrical and Computer Engineering at University of British Columbia
 - 📈 I'm also Lead Software and Machine Learning Engineer at Texavie Technologies Inc
+- 🔋 I received my M.Sc., B.Sc.s (double major) in Electrical Engineering and Computer Science from Sharif University of Technology.
 - ⚙️ Building state-of-the-art products and solutions from scratch. Strategic planning, +7 years of technical team leadership, and software product management experience.
 - 📊 Experienced Software (Full Stack Developer)/Firmware/Hardware Engineer with a demonstrated history of working in secure Artificial intelligence, Web3/Blockchain development, Software/Firmware/Hardware development, Wearable and edge computing, consumer electronics, and Internet of things devices, mostly in the digital health domain.
 - 💻 Highly skilled in Computer vision, Deep Learning, Signal Processing, Game Theory, Federated Learning, Web3/Blockchain, and Convex Optimization.
