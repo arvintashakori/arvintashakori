@@ -15,7 +15,7 @@
 - [My personal website](https://arvintashakori.com)
 - [My Google Scholar](https://scholar.google.com/citations?user=8pFUPnQAAAAJ&hl=en)
 - [My LinkedIn](https://www.linkedin.com/in/arvin-tashakori-b2b707aa/)
-- [My CV](https://drive.google.com/file/d/1qiEI8SkPuYrSIwyyMnq9SMOB2w1XVyh3/view?usp=share_link)
+- [My CV](https://drive.google.com/file/d/1amZNgz-pglyRGn8QSYucLOmnkPhEyYnW/view?usp=sharing)
 
 <!---
 arvintashakori/arvintashakori is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
