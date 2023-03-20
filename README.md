@@ -8,7 +8,7 @@
 - 👨🏻‍💻 Skilled in Software Development (Full Stack Web development (ReactJS, NodeJS), native IOS and Android development), Cloud infrastructure (AWS, Azure, Google), and Software Product management.
 - 🔋 Experienced in FPGA/ASIC/Firmware development and hardware design.
 - 🏢 I'm currently a Ph.D. candidate at the University of British Columbia, Vancouver BC, Canada, in the Department of Electrical and Computer Engineering. I'm also working as Software and Machine Learning Engineer Lead at Texavie Technologies Inc, Vancouver BC, Canada.
-- 👀 My Ph.D. thesis is about Human-Computer Interaction with a focus on Federated Learning for wearable smart devices under the supervision of Prof. Peyman Servati and Prof. Jane Z. Wang.
+- 👀 My Ph.D. thesis is about Human-Computer Interaction with a focus on secure and robust pose estimation using wearable smart devices under the supervision of Prof. Peyman Servati and Prof. Jane Z. Wang.
 - 📝 In other words, I'm passionate about modeling complex real-world problems using mathematical and algorithmic frameworks and fabricating a solution.
 - 💞️ In free times, you can find me either playing piano (have been playing since I was 6 years old), learning french, cooking, hiking, hanging out with friends, or doing some amateur photography.
 - 📫 How to reach me: my first name @ ece.ubc.ca or texavie.com
