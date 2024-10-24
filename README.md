@@ -1,6 +1,6 @@
 - 👋 Hi, Welcome to my Github profile! My name is Arvin Tashakori
 - 🔋 I'm a Doctor of Philosophy (Ph.D.) Candidate in Electrical and Computer Engineering at the University of British Columbia, Vancouver, BC, Canada.
-- 📈 I'm also Senior Software and Machine Learning Engineer, Tech Lead at Texavie Technologies Inc, Vancouver BC, Canada.
+- 📈 I'm also Tech Lead – Software Engineering and Machine Learning at Texavie Technologies Inc, Vancouver BC, Canada.
 - 🔋 I received my M.Sc. and B.Sc.s (double major) in Electrical Engineering and Computer Science from Sharif University of Technology, Tehran, Iran.
 - ⚙️ Building state-of-the-art products and solutions from scratch. Strategic planning, +10 years of technical team leadership, and software product management experience.
 - 📊 Experienced Software (Full Stack Developer)/Firmware/Hardware Engineer with a demonstrated history of working in secure Artificial intelligence, Web3/Blockchain development, Software/Firmware/Hardware development, Wearable and edge computing, consumer electronics, and Internet of Things devices, mostly in the digital health domain.
