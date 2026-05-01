@@ -175,10 +175,3 @@ Outside of engineering and research, I enjoy:
 ---
 
 > Building intelligent systems that bridge AI research and real-world impact.
-
-<!---
-arvintashakori/arvintashakori is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
-
-Source CV: fileciteturn0file0L1-L236
-
